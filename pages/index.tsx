@@ -289,7 +289,7 @@ const Team = ()=> <section className="pt-20 pb-48">
       <div className="px-6">
         <img
           alt="..."
-          src='/assets/img/team-1-800x800.jpg'
+          src='/img/team-1-800x800.jpg'
           className="shadow-lg rounded-full max-w-full mx-auto"
           style={{ maxWidth: "120px" }}
         />
@@ -327,7 +327,7 @@ const Team = ()=> <section className="pt-20 pb-48">
       <div className="px-6">
         <img
           alt="..."
-          src='/assets/img/team-2-800x800.jpg'
+          src='/img/team-2-800x800.jpg'
           className="shadow-lg rounded-full max-w-full mx-auto"
           style={{ maxWidth: "120px" }}
         />
@@ -359,7 +359,7 @@ const Team = ()=> <section className="pt-20 pb-48">
       <div className="px-6">
         <img
           alt="..."
-          src='/assets/img/team-3-800x800.jpg'
+          src='/img/team-3-800x800.jpg'
           className="shadow-lg rounded-full max-w-full mx-auto"
           style={{ maxWidth: "120px" }}
         />
@@ -397,7 +397,7 @@ const Team = ()=> <section className="pt-20 pb-48">
       <div className="px-6">
         <img
           alt="..."
-          src='/assets/img/team-4-470x470.png'
+          src='/img/team-4-470x470.png'
           className="shadow-lg rounded-full max-w-full mx-auto"
           style={{ maxWidth: "120px" }}
         />
