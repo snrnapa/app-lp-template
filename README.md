@@ -1,3 +1,7 @@
+# 参考にしたテンプレート(以降のREADME.mdの内容は、参考にしたテンプレートのものです)
+https://github.com/creativetimofficial/tailwind-starter-kit/tree/main
+
+
 # TypeScript Next.js example
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
